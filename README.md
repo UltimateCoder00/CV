@@ -1,4 +1,4 @@
-## Hasan Sonmez
+# Hasan Sonmez
 
 [Skills](#skills) | [Group Projects](#projects) | [Company Projects](#projects2) | [Education](#education) | [Experience](#experience) | [Extracurricular Activities](#activities) |  
 
@@ -34,21 +34,20 @@ Project title  | Description | Technologies | Testing
 
 ## <a name="education">Education</a>
 
-### Makers Academy [Feb 2017 - Jun 2017]
-#### 12 week intensive coding bootcamp.
+### Makers Academy <span> (Feb 2017 - Jun 2017) </span>
+- 12 Week Intensive Coding Bootcamp:
 
-- Curiosity and hungry passion for code.
-- Independent learner and problem-solver.
-- Agile methodology.
-- Pair programming.
-- OOP, TDD, SOLID, MVC.
-- Full stack web development.
-- Ruby, Rails, Javascript, jQuery, React.
-- Rspec, Jasmine, Mocha.
+  * Curiosity and hungry passion for code.
+  * Independent learner and problem-solver.
+  * Agile methodology.
+  * Pair programming.
+  * OOP, TDD, SOLID, MVC.
+  * Full stack web development.
+  * Ruby, Rails, Sinatra, Javascript, Node.js, jQuery, React and Solidity.
+  * Rspec, Jasmine, Mocha/Chai.
 
-
-### University of Liverpool [Oct 2011 - Dec 2015]
-#### Doctorate in Theoretical Physics (PhD)
+### University of Liverpool (Oct 2011 - Dec 2015)
+- PhD Theoretical Physics:
 
   *	Performed intensive research into string phenomenology/string theory using the free-fermionic construction.
   *	Successfully guided and developed projects leading to six academic publications.
@@ -60,18 +59,19 @@ Project title  | Description | Technologies | Testing
   *	Trained two PhD students to develop my code and extend to other String theory models.
   *	Presented talks in seven international conferences.
 
-### King’s College, London [Sep 2009 - Jun 2010]		
-- MSc. Theoretical Physics
+### King’s College London (Sep 2009 - Jun 2010)		
+- MSc Theoretical Physics
 
-### King’s College, London [Sep 2008 - Jun 2009]
+### King’s College London (Sep 2008 - Jun 2009)
 - Graduate Diploma in Mathematics
 
-### King’s College, London [Sep 2005 - Jun 2008]
-- BSc. Mathematics & Computer Science
+### King’s College London (Sep 2005 - Jun 2008)
+- BSc Mathematics & Computer Science
 
 ## <a name="experience">Experience</a>
 
-### Postdoctoral Honorary Research Assistant (University of Liverpool) [Oct 2015 - Dec 2016]
+### Research Assistant (Oct 2015 - Dec 2016)
+
   * Achieved two postdoctoral academic publications.
   * Extended work carried out from doctorate studies to analyse large data sets.
   * Modified JAVA code to scan different grand unified gauge groups in String theory model building.
@@ -82,26 +82,23 @@ Project title  | Description | Technologies | Testing
   * Predicted future avenues in theoretical physics.
 
 
-### Divisional Seminar Organiser (University of Liverpool) [July 2014 - Dec 2016]
+### Divisional Seminar Organiser (July 2014 - Dec 2016)
   * Invited international and national speakers for seminar talks.
   * Hosted seminar speaker including transport and accommodation needs.
   * Chaired sessions and maintained smooth running of seminars.
   * Managed, configured and updated seminar website.
 
-### Examination Chief Invigilator (University of Liverpool) [Dec 2011 - Dec 2016]
+### Examination Chief Invigilator (Dec 2011 - Dec 2016)
   * Responsible for collecting and returning exam scripts.
   * Guiding students in following exam regulations.
   * Overseeing the punctuality of exams.
   * Supervising and instructing exam invigilators.
 
-### Mathematics Tutor/Teaching Assistant (University of Liverpool) [Oct 2011 - Dec 2015]
-  * Provided group tutorials for undergraduate students in Mathematics courses at University of Liverpool; also mathematics for engineers, physicists and finance students, including courses such as:
-    * Vector Calculus with applications in Fluid Mechanics
-    * Field Theory and Partial Differential Equations
-    * Financial Mathematics
+### Teaching Assistant (Oct 2011 - Dec 2015)
+  * Provided group tutorials for undergraduate students in Mathematics courses at University of Liverpool; also mathematics for engineers, physicists and finance students.
   * Ability to convey complex information in an easy-to-understand format on any mathematical or physical topic.
 
-### Residential Advisor/Hall Tutor (Residential Halls, University of Liverpool) [Sept 2012 - Aug 2015]
+### Residential Advisor (Sept 2012 - Aug 2015)
   * Guided first year undergraduate students for preparing for university studies and joining social societies.
   * Arranged funds for organising social events for 40+ students.
 
