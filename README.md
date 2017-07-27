@@ -35,7 +35,7 @@ Project title  | Description | Technologies | Testing
 ## <a name="education">Education</a>
 
 ### Makers Academy <span> (Feb 2017 - Jun 2017) </span>
-- 12 Week Intensive Coding Bootcamp:
+- 16 Week Intensive Coding Bootcamp:
 
   * Curiosity and hungry passion for code.
   * Independent learner and problem-solver.
